@@ -7,7 +7,7 @@ Hi, I'm Md. Fahim Hossen, a passionate self-taught programmer from Bangladesh. B
 
 I also do Graphic and Framework designing. Since I love both, programming and designing. I'm also interested in open source, and creative coding projects.
 
-## Skill And Experiance <br>
+## Skill And Experiance <hr>
 ✅ Web Developer~ <br>
 ✅ Digital Marketer~ <br>
 ✅ Logo Designer~  <br>
@@ -16,8 +16,10 @@ I also do Graphic and Framework designing. Since I love both, programming and de
 ✅ HTML/CSS/SASS~  <br>
 ✅ WordPress~  <br>
 
-## Contact With Me <hr>
-🙂 <a href="">Facebook</a>
+🙂 ## Contact With Me <hr>
+<a href="https://www.facebook.com/mdfahim.hossensujon">Facebook</a> <br>
+<a href="https://twitter.com/MdFahimHossenS">Twitter</a> <br>
+<a href="https://www.instagram.com/mdfahim9710">Instagram</a> <br>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FahimTs)  
