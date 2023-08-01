@@ -1,4 +1,4 @@
-![Web Developer~](https://pbs.twimg.com/profile_banners/1499290635806777345/1678341938/1080x360)
+![Web Developer~]
 
 ## Hi, I'm Fahim Hossen 👋
 ### Web Developer~
