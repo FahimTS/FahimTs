@@ -3,18 +3,17 @@
 ## Hi, I'm Fahim Hossen 👋
 ### Web Developer~
 
-Hi, I'm Md. Fahim Hossen, a passionate self-taught programmer from Bangladesh. Basically I build several web application based on JavaScript. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and catch user's eye. I am especially focusing on AngularJS.
+Hi, I'm Md. Fahim Hossen is a passionate self-taught programmer from Bangladesh. Basically I build several web application based on JavaScript. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and catch users' eye. I am especially focusing on AngularJS.
 
 I also do Graphic and Framework designing. Since I love both, programming and designing. I'm also interested in open source, and creative coding projects.
 
 ## Skill And Experiance <hr>
-✅ Web Developer~ <br>
-✅ Digital Marketer~ <br>
-✅ Logo Designer~  <br>
+✅ Web Designer~ <br>
+✅ Web Development~ <br>
+✅ WordPressr~  <br>
 ✅ JavaScript~ <br>
 ✅ PHP~  <br>
 ✅ HTML/CSS/SASS~  <br>
-✅ WordPress~  <br>
 
 🙂 ## Contact With Me <hr>
 <a href="https://www.facebook.com/mdfahim.hossensujon">Facebook</a> <br>
