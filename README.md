@@ -1,5 +1,3 @@
-![Web Developer~]
-
 ## Hi, I'm Md. Fahim Hossen 👋
 ### Full Stack Web Developer | Laravel, Angular & WordPress Expert~
 
@@ -10,15 +8,15 @@ and WordPress customization. Proven track record in project delivery, client sat
 problem-solving under deadline pressure.
 
 🧰 Core Skills
-● HTML5, CSS3, JavaScript (ES6+), jQuery
-● WordPress Theme Customization, Elementor Pro, ACF
-● PHP, Laravel Framework, RESTful API Development
-● Angular, TypeScript, Single Page Applications (SPA)
-● Tailwind CSS, Bootstrap, Sass
-● Git, GitHub, Version Control
-● MySQL, Database Optimization
-● Performance Tuning, SEO, Cross-browser Compatibility
-● Time Management, Team Collaboration, Problem Solving
+● HTML5, CSS3, JavaScript (ES6+), jQuery <br>
+● WordPress Theme Customization, Elementor Pro, ACF <br>
+● PHP, Laravel Framework, RESTful API Development <br>
+● Angular, TypeScript, Single Page Applications (SPA) <br>
+● Tailwind CSS, Bootstrap, Sass <br>
+● Git, GitHub, Version Control <br>
+● MySQL, Database Optimization <br>
+● Performance Tuning, SEO, Cross-browser Compatibility <br>
+● Time Management, Team Collaboration, Problem Solving <br>
 
 ## Skill And Experiance <hr>
 ✅ Web Designer~ <br>
