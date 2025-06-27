@@ -1,11 +1,24 @@
 ![Web Developer~]
 
-## Hi, I'm Fahim Hossen 👋
-### Web Developer~
+## Hi, I'm Md. Fahim Hossen 👋
+### Full Stack Web Developer | Laravel, Angular & WordPress Expert~
 
-Hi, I'm Md. Fahim Hossen is a passionate self-taught programmer from Bangladesh. Basically I build several web application based on JavaScript. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and catch users' eye. I am especially focusing on AngularJS.
+🧾 Professional Summary
+Creative and performance-driven Web Developer with 3+ years of experience in crafting scalable,
+responsive, and secure web applications. Specializing in Laravel backend systems, Angular SPAs,
+and WordPress customization. Proven track record in project delivery, client satisfaction, and
+problem-solving under deadline pressure.
 
-I also do Graphic and Framework designing. Since I love both, programming and designing. I'm also interested in open source, and creative coding projects.
+🧰 Core Skills
+● HTML5, CSS3, JavaScript (ES6+), jQuery
+● WordPress Theme Customization, Elementor Pro, ACF
+● PHP, Laravel Framework, RESTful API Development
+● Angular, TypeScript, Single Page Applications (SPA)
+● Tailwind CSS, Bootstrap, Sass
+● Git, GitHub, Version Control
+● MySQL, Database Optimization
+● Performance Tuning, SEO, Cross-browser Compatibility
+● Time Management, Team Collaboration, Problem Solving
 
 ## Skill And Experiance <hr>
 ✅ Web Designer~ <br>
