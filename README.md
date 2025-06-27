@@ -7,7 +7,7 @@ responsive, and secure web applications. Specializing in Laravel backend systems
 and WordPress customization. Proven track record in project delivery, client satisfaction, and
 problem-solving under deadline pressure.
 
-🧰 Core Skills
+🧰 Core Skills <br/>
 ● HTML5, CSS3, JavaScript (ES6+), jQuery <br>
 ● WordPress Theme Customization, Elementor Pro, ACF <br>
 ● PHP, Laravel Framework, RESTful API Development <br>
